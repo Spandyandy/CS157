@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=degree
+comment0.target=Polynomial(int)
+comment1.params=value\ i
+comment1.target=void\ setCoef(double,\ int)
+comment2.params=x
+comment2.target=double\ eval(double)
+numComments=3

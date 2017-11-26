@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WeatherData()
+comment1.params=day\ hi\ low\ rain\ cond
+comment1.target=void\ todaysWeather(int,\ int,\ int,\ double,\ java.lang.String)
+comment1.text=\ todaysWeather\ -\ enter\ the\ weather\ conditions\ for\ day\ into\ arrays\n\ \ \ \ \ \ \ @pre\:\ \ day\ >\ 0\ &&\ day\ <\=\ 31\n\ \ \ \ \ \ \ @post\:\ weather\ conditions\ entered\ into\ arrays\n
+comment2.params=day
+comment2.target=double\ getRainfall(int)
+comment2.text=\ getRainfall\ -\ return\ the\ rainfall\ for\ day\n\ \ \ \ \ \ \ @pre\:\ day\ >\ 0\ &&\ day\ <\=\ 31\n\ \ \ \ \ \ \ @post\:\ returns\ the\ total\ rainfall\n
+comment3.params=
+comment3.target=double\ averageRainfall()
+comment3.text=\ averageRainfall\ -\ computes\ average\ rainfall\ for\ the\ month\n\ \ \ \ \ \ \ @pre\:\ none\n\ \ \ \ \ \ \ @post\:\ returns\ the\ average\ rainfall\n
+comment4.params=day
+comment4.target=void\ printWeatherData(int)
+comment4.text=\ printWeatherData\ -\ output\ weather\ information\ for\ given\ day\n\ \ \ \ \ \ \ @pre\:\ \ day\ >\ 0\ &&\ day\ <\=\ 31\n\ \ \ \ \ \ \ @post\:\ weather\ conditions\ printed\n
+comment5.params=day
+comment5.target=double\ averageDailyTemp(int)
+comment5.text=\ getRainfall\ -\ return\ the\ rainfall\ for\ day\n\ \ \ \ \ \ \ @pre\:\ day\ >\ 0\ &&\ day\ <\=\ 31\n\ \ \ \ \ \ \ @post\:\ returns\ the\ average\ temperature\n
+comment6.params=day
+comment6.target=double\ averageMonthlyTemp(int)
+comment6.text=\ getRainfall\ -\ return\ the\ rainfall\ for\ day\n\ \ \ \ \ \ \ @pre\:\ day\ >\ 0\ &&\ day\ <\=\ 31\n\ \ \ \ \ \ \ @post\:\ returns\ the\ average\ monthly\ temperature\n
+numComments=7

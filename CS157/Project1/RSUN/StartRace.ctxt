@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StartRace()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ begin()
+comment3.params=point
+comment3.target=void\ onMouseEnter(objectdraw.Location)
+comment4.params=point
+comment4.target=void\ onMouseClick(objectdraw.Location)
+comment5.params=
+comment5.target=void\ raceOver()
+numComments=6

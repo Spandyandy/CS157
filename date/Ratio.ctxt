@@ -1,0 +1,32 @@
+#BlueJ class context
+comment0.params=top\ bottom
+comment0.target=Ratio(int,\ int)
+comment0.text=\n\ @pre\ bottom\ \!\=\ 0\n\ @post\ constructs\ a\ ratio\ equivalent\ to\ top\:\:bottom\n\ @param\ top\ \n\ @param\ bottom\ \n
+comment1.params=
+comment1.target=int\ getNumerator()
+comment1.text=\n\ @post\ return\ the\ numerator\ of\ the\ fraction\n
+comment2.params=
+comment2.target=int\ getDenominator()
+comment2.text=\n\ @post\ return\ the\ denominator\ of\ the\ fraction\n\ @return\ denominator\ of\ the\ fraction\n
+comment3.params=
+comment3.target=double\ getValue()
+comment3.text=\n\ @post\ return\ the\ double\ equivalent\ of\ the\ ratio\n
+comment4.params=other
+comment4.target=Ratio\ add(Ratio)
+comment4.text=\n\ @pre\ other\ is\ nonnull\n\ @post\ return\ new\ fraction--the\ sum\ of\ this\ and\ other\n
+comment5.params=
+comment5.target=void\ reduce()
+comment5.text=\n\ Reduce\ this\ fraction\ to\ lowest\ terms.\n\ @post\ numerator\ and\ denominator\ are\ set\ so\ that\n\ the\ greatest\ common\ divisor\ of\ the\ numerator\ and\ denominator\ is\ 1\n
+comment6.params=a\ b
+comment6.target=int\ gcd(int,\ int)
+comment6.text=\n\ Compute\ the\ greatest\ common\ divistor\ of\ two\ values.\n\ @param\ a\ one\ value\n\ @param\ b\ another\ value\n\ @pre\ 0\ <\=\ a,b\n\ @post\ computes\ the\ greatest\ integer\ value\ that\ divides\ a\ and\ b\n\ @return\ the\ greatest\ common\ divisor\ of\ a\ and\ b\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ @post\ returns\ a\ string\ that\ represents\ this\ fraction.\n\ @return\ a\ string\ representation\ of\ this\ fraction.\n
+comment8.params=other
+comment8.target=int\ compareTo(java.lang.Object)
+comment8.text=\n\ Compare\ two\ Ratio\ values\:\ returns\ value\ <,\ \=\=,\ or\ >\ 0\ if\ \n\ this\ value\ is\ <,\ \=\=,\ or\ >\ the\ other\ value.\n\ @param\ other\ the\ value\ compared\ to\ this\n\ @pre\ other\ is\ non-null\ and\ type\ Ratio\n\ @post\ returns\ value\ <,\ \=\=,\ >\ 0\ if\ this\ value\ is\ <,\ \=\=,\ >\ that\n\ @return\ value\ <,\ \=\=,\ >\ 0\ if\ this\ value\ is\ <,\ \=\=,\ >\ that\n
+comment9.params=that
+comment9.target=boolean\ equals(java.lang.Object)
+comment9.text=\n\ Returns\ true\ iff\ this\ ratio\ is\ the\ same\ as\ the\ that\ ratio.\n\ @param\ that\ the\ Ratio\ being\ compared\ to\n\ @pre\ that\ is\ type\ Ratio\n\ @post\ returns\ true\ iff\ this\ ratio\ is\ the\ same\ as\ that\ ratio\n\ @return\ true\ iff\ this\ ratio\ and\ that\ are\ the\ same\n
+numComments=10

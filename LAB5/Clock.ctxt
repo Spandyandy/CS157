@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=h\ m\ s\ aCanvas
+comment0.target=Clock(double,\ double,\ double,\ objectdraw.DrawingCanvas)
+comment1.params=
+comment1.target=void\ run()
+numComments=2

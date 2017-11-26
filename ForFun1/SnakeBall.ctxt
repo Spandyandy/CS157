@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=initXSpeed\ initYSpeed\ aCanvas
+comment0.target=SnakeBall(int,\ int,\ objectdraw.DrawingCanvas)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=newXSpeed\ newYSpeed
+comment2.target=void\ setSpeed(int,\ int)
+comment3.params=
+comment3.target=int\ getXLoc()
+comment4.params=
+comment4.target=int\ getYLoc()
+comment5.params=x\ y
+comment5.target=void\ move(int,\ int)
+numComments=6

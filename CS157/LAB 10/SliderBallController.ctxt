@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SliderBallController()
+comment1.params=
+comment1.target=void\ begin()
+comment2.params=point
+comment2.target=void\ onMouseClick(objectdraw.Location)
+comment3.params=evt
+comment3.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+numComments=4

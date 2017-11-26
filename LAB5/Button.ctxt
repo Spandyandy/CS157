@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=text\ x\ y\ value\ canvas
+comment0.target=Button(java.lang.String,\ int,\ int,\ int,\ objectdraw.DrawingCanvas)
+comment1.params=r\ g\ b
+comment1.target=void\ setColor(int,\ int,\ int)
+comment2.params=width\ height
+comment2.target=void\ setSize(int,\ int)
+comment3.params=t
+comment3.target=void\ setText(java.lang.String)
+comment4.params=size
+comment4.target=void\ setFontSize(int)
+comment5.params=point
+comment5.target=boolean\ contains(objectdraw.Location)
+comment6.params=
+comment6.target=int\ value()
+numComments=7

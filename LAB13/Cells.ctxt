@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=bg
+comment0.target=Cells(objectdraw.FilledRect[][])
+comment1.params=i\ j
+comment1.target=int\ countNeighbors(int,\ int)
+comment2.params=
+comment2.target=void\ gameStop()
+comment3.params=
+comment3.target=void\ run()
+numComments=4

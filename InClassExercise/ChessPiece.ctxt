@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=position
+comment0.target=void\ move(java.lang.String)
+comment1.params=
+comment1.target=void\ captured()
+comment2.params=position
+comment2.target=void\ draw(java.lang.String)
+comment3.params=
+comment3.target=int\ getValue()
+numComments=4

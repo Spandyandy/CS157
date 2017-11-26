@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Scribble()
+comment1.params=pt
+comment1.target=void\ onMousePress(objectdraw.Location)
+comment2.params=pt
+comment2.target=void\ onMouseDrag(objectdraw.Location)
+numComments=3
